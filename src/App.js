@@ -1,10 +1,10 @@
-import Starter from './01-useState/starter/01-error-example'
+import Starter from './01-useState/starter/02-useState-basics'
 
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
 
       <Starter />
 
